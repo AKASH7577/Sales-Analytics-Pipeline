@@ -153,12 +153,3 @@ python python/data_ingestion.py
 
 ---
 
-## 📬 Contact
-
-**Nandana M K** - Data Analyst  
-📧 nandanamk2702@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/nandanamk) | [GitHub](https://github.com/Nandana3)
-
----
-
-*Built as part of a personal portfolio to demonstrate end-to-end data analytics skills across SQL, Python, Excel, and Power BI.*
